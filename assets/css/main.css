@@ -1623,7 +1623,7 @@ input, select, textarea {
 					background-color: rgba(255, 255, 255, 0.175);
 				}
 
-		@media screen and (max-width: 736px) {
+		/* @media screen and (max-width: 736px) {
 
 			#main article {
 				padding: 3.5rem 2rem 0.5rem 2rem ;
@@ -1637,7 +1637,7 @@ input, select, textarea {
 					background-size: 14px 14px;
 				}
 
-		}
+		} */
 
 		@media screen and (max-width: 480px) {
 
