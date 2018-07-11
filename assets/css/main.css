@@ -1587,13 +1587,12 @@ input, select, textarea {
 			#main article .close {
 				display: block;
 				position: absolute;
-				top: 0;
-				right: 0;
+				top: 9px;
+				right: 54px;
 				width: 4rem;
 				height: 4rem;
 				cursor: pointer;
 				text-indent: 4rem;
-				overflow: hidden;
 				white-space: nowrap;
 			}
 
@@ -1605,8 +1604,8 @@ input, select, textarea {
 					content: '';
 					display: block;
 					position: absolute;
-					top: 0.75rem;
-					left: 0.75rem;
+					top: -0.4rem;
+					left: 3.9rem;
 					width: 2.5rem;
 					height: 2.5rem;
 					border-radius: 100%;
